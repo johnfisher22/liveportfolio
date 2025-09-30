@@ -1,2 +1,2 @@
 # liveportfolio
-My goal is to give you an insight into my profeessional abilities as a current MSE. Software Engineering student through this portfolio project
+My goal is to give you an insight into my profeessional abilities as a current MSE. Software Engineering student at North Dakota State University through this portfolio project
